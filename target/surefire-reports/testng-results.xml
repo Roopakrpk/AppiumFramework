@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-21T05:50:41Z" name="Suite" finished-at="2022-06-21T05:52:04Z" duration-ms="83345">
+    <groups>
+    </groups>
+    <test started-at="2022-06-21T05:50:41Z" name="Test" finished-at="2022-06-21T05:52:04Z" duration-ms="83345">
+      <class name="practice.AppiumE2EFramework.Ecommerce_Tc">
+        <test-method is-config="true" signature="killAllNodes()[pri:0, instance:practice.AppiumE2EFramework.Ecommerce_Tc@4b86805d]" started-at="2022-06-21T05:50:41Z" name="killAllNodes" finished-at="2022-06-21T05:50:44Z" duration-ms="3018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method signature="totalValidation()[pri:0, instance:practice.AppiumE2EFramework.Ecommerce_Tc@4b86805d]" started-at="2022-06-21T05:50:44Z" name="totalValidation" finished-at="2022-06-21T05:51:18Z" duration-ms="34148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- practice.AppiumE2EFramework.Ecommerce_Tc -->
+      <class name="practice.AppiumE2EFramework.APIDemoTest">
+        <test-method signature="apiDemo(java.lang.String)[pri:0, instance:practice.AppiumE2EFramework.APIDemoTest@5852c06f]" started-at="2022-06-21T05:51:18Z" name="apiDemo" data-provider="inputData" finished-at="2022-06-21T05:51:42Z" duration-ms="23459" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+        <test-method signature="apiDemo(java.lang.String)[pri:0, instance:practice.AppiumE2EFramework.APIDemoTest@5852c06f]" started-at="2022-06-21T05:51:42Z" name="apiDemo" data-provider="inputData" finished-at="2022-06-21T05:52:04Z" duration-ms="22691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[!@#$%^]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+      </class> <!-- practice.AppiumE2EFramework.APIDemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

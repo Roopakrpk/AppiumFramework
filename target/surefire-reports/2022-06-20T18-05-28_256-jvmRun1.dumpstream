@@ -1,0 +1,15 @@
+# Created at 2022-06-20T18:05:29.748
+Unresolved compilation problems: 
+	The import org.testng cannot be resolved
+	The import org.testng cannot be resolved
+	The import org.testng cannot be resolved
+	ITestListener cannot be resolved to a type
+	ITestResult cannot be resolved to a type
+	ITestResult cannot be resolved to a type
+	ITestResult cannot be resolved to a type
+	ITestResult cannot be resolved to a type
+	ITestResult cannot be resolved to a type
+	ITestContext cannot be resolved to a type
+	ITestContext cannot be resolved to a type
+
+

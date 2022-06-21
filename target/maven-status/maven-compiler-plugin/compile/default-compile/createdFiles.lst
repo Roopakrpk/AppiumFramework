@@ -1,0 +1,8 @@
+practice/AppiumE2EFramework/Utilities.class
+resources/Listeners.class
+pageObjects/CheckoutPage.class
+pageObjects/Homepage.class
+practice/AppiumE2EFramework/Base.class
+resources/ExtentReporterNG.class
+practice/AppiumE2EFramework/TestData.class
+pageObjects/FormPage.class
